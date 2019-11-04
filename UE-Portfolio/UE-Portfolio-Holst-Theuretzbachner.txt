@@ -4,8 +4,7 @@
 -   small difficulties writing image to SD-card (since card reader had
     block enabled)
 
-![](media/image1.png){width="3.1041666666666665in"
-height="2.589583333333333in"}
+![pin schmema wemos mini](https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/UE-Portfolio/Images/button_scheme_d1_mini.png)
 
 **Example-Code for blinking LED:**
 
@@ -37,8 +36,9 @@ delay(1000); // wait for a second
 
 -   establishing WiFi-connection successful
 
--   ![](media/image2.png){width="4.154861111111111in"
-    height="4.951388888888889in"}first step: have LED turn on / off when
+-   ![screenshot webserver connect](https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/UE-Portfolio/Images/success-webserver-success-RASPBERRY.png)
+
+-   first step: have LED turn on / off when
     refreshed
 
 -   seconds step: have page refresh with button press with certain IP
