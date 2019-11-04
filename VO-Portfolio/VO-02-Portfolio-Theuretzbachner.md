@@ -52,8 +52,8 @@ while a cloud is more dense
 
 -   **Example:** Raspberry Pi: 1-Wire Temperatursensor DS1820
 
--   ![](media/image1.png){width="3.5833333333333335in"
-    height="2.1743055555555557in"}Block diagram:
+-   Block diagram:
+![block diagram onewire](https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/VO-Portfolio/Images/onewire.pdf)
 
 <https://www.maximintegrated.com/en/products/interface/one-wire.html>
 
@@ -109,9 +109,8 @@ while a cloud is more dense
 
 -   "loose" standard for synchronous serial data bus
 
--   ![](media/image2.png){width="3.4375in"
-    height="1.0763888888888888in"}data communication between micro
-    controller
+-   data communication between micro controller
+![data communication](https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/VO-Portfolio/Images/spi_data_communication.png)
 
 -   settings variable: clock edge, word length
 
