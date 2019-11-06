@@ -1,0 +1,122 @@
+commit 2b98ed45f0de0234a7b187e2b49cc0a846c9860e
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 19:53:31 2019 +0100
+
+    UE02
+
+commit 196919dee7551bf4a1381d6feecc8f38dbb738d8
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 18:15:49 2019 +0100
+
+    UE01
+
+commit daea70fc92b60c80e3b0248e400540a2410e27eb
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 18:13:21 2019 +0100
+
+    UE03
+
+commit c38ae5099e4a5e86b392d56f12a6955340ebf571
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 17:28:06 2019 +0100
+
+    fixed image links
+
+commit 6aebeb48419787d6056f0b2c75e163ec3cc89eac
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 17:26:21 2019 +0100
+
+    fixed links
+
+commit 955b49fc9f451981c518bde76d80ef36b531f8e0
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 17:17:13 2019 +0100
+
+    format changes
+
+commit 22228e7e88340abc054b850a89df9703b0acae25
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 17:16:29 2019 +0100
+
+    Images for VO portfolio
+
+commit c4b06a16adc8ea376c9c689e1f7749e50a173ec3
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 15:56:24 2019 +0100
+
+    links to VO portfolios
+
+commit f45f77cb014e3cabe0bc1f5106921a320b64f342
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 15:51:24 2019 +0100
+
+    single files preferable
+
+commit 1f46d8d100b815feb7b1bdf0ff13c6d0b37b6662
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 15:49:36 2019 +0100
+
+    changed txt files to md files
+
+commit 819bcf1bc6f9060deb38f75e361083e9f2ce6e93
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 15:38:15 2019 +0100
+
+    Rename UE-Portfolio-Holst-Theuretzbachner.txt to UE-Portfolio-Holst-Theuretzbachner.md
+
+commit e0eb508f7ce0c69a7008dd688134f6938c1e1ce2
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Mon Nov 4 14:12:11 2019 +0100
+
+    Images verlinken
+
+commit 57f67b68e2d84df93bac22eded61311469420e31
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 10:49:58 2019 +0100
+
+    Update UE portfolio
+
+commit 9246cec140b7a0a2096d996dfc7151b748334c33
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Nov 4 10:28:54 2019 +0100
+
+    Update portfolio
+
+commit c78bb96804b800cff9d8e079d3d82d4e3009387d
+Merge: 7c79772 2f161ea
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Sun Nov 3 20:19:21 2019 +0100
+
+    Merge branch 'master' of https://github.com/JoachimHolst/IoT-Holst-theuretzbachner
+
+commit 7c797728e740bb3d23166e6ed9835fb38bec8eb3
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Sun Nov 3 20:18:24 2019 +0100
+
+    Markup document
+
+commit 2f161eafb0aff8b41d4b1c74b3741fdf98006616
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Sun Nov 3 19:33:33 2019 +0100
+
+    wrong format (no markup)
+
+commit 1dc361a9998296f1613c34119aed26e0245c822d
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Sun Nov 3 19:33:18 2019 +0100
+
+    wrong format (no markup)
+
+commit b4ec411dab5ba1e6d87b93fd6996628ca3e33d88
+Author: bratapfelmus <bratapfelmus@users.noreply.github.com>
+Date:   Thu Oct 31 12:27:56 2019 +0100
+
+    Add files via upload
+    
+    Add VO portfolios
+
+commit c153f7e32633dd49cd3104f435fc3cd64fedc5c5
+Author: bratapfelmus <bernadette.th@gmail.com>
+Date:   Mon Oct 28 15:34:19 2019 +0100
+
+    first commit
