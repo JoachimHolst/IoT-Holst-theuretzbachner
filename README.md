@@ -1,7 +1,7 @@
 # IoT-Holst-theuretzbachenr
 
 <h2>Montag, 28.10.2019</h2>
-<a href="https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/VO-Portfolio/VO-01-Portfolio-Theuretzbachner.md">Vorlesung Portfolio Theuretzbachner Bernadette</a><br>
+<a href="https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/VO-Portfolio/VO-01-Portfolio-Theuretzbachner.md">Vorlesung Portfolio Holst Joachim</a><br>
 <a href="https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/VO-Portfolio/VO-01-Portfolio-Holst.md">Vorlesung Portfolio Theuretzbachner Bernadette</a><br>
 <a href="https://github.com/JoachimHolst/IoT-Holst-theuretzbachner/blob/master/UE-Portfolio/UE-01-Portfolio-Holst-Theuretzbachner.md">Uebung Portfolio Theuretzbachner Bernadette, Holst Joachim</a>
 
